@@ -19,7 +19,6 @@ C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-
 C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\bin\Debug\net6.0-windows\FlappyBird.deps.json
 C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\bin\Debug\net6.0-windows\FlappyBird.runtimeconfig.json
 C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\bin\Debug\net6.0-windows\FlappyBird.dll
-C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\bin\Debug\net6.0-windows\FlappyBird.pdb
 C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\obj\Debug\net6.0-windows\FlappyBird.MainForm.resources
 C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\obj\Debug\net6.0-windows\FlappyBird.Properties.Resources.resources
 C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\obj\Debug\net6.0-windows\FlappyBird.csproj.GenerateResource.cache
@@ -29,6 +28,5 @@ C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-
 C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\obj\Debug\net6.0-windows\FlappyBird.csproj.CoreCompileInputs.cache
 C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\obj\Debug\net6.0-windows\FlappyBird.dll
 C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\obj\Debug\net6.0-windows\refint\FlappyBird.dll
-C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\obj\Debug\net6.0-windows\FlappyBird.pdb
 C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\obj\Debug\net6.0-windows\FlappyBird.genruntimeconfig.cache
 C:\Users\aaryan.singla\Desktop\Training\Personal projects\FlappyBird\FlappyBird-Clone\obj\Debug\net6.0-windows\ref\FlappyBird.dll
